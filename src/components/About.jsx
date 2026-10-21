@@ -2,7 +2,7 @@ import { FaCut } from 'react-icons/fa';
 import Reveal from './common/Reveal';
 
 const stats = [
-  { num: '2', accent: '+', label: 'Years Experience' },
+  { num: '4', accent: '+', label: 'Years Experience' },
   { num: '1', accent: ':1', label: 'Client Focus' },
   { num: '5.0', accent: '★', label: 'Client Rating' },
 ];
