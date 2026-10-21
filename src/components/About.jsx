@@ -1,4 +1,4 @@
-import { FaScissors } from 'react-icons/fa';
+import { FaCut } from 'react-icons/fa';
 import Reveal from './common/Reveal';
 
 const stats = [
@@ -29,7 +29,7 @@ export default function About() {
                   Founder · Nail &amp; Lash Tech
                 </span>
               </div>
-              <FaScissors className="text-accent text-2xl" />
+              <FaCut className="text-accent text-2xl" />
             </div>
           </div>
         </Reveal>

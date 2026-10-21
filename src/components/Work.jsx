@@ -1,4 +1,4 @@
-import { FaArrowUpRightFromSquare } from 'react-icons/fa6';
+import { FaExternalLinkAlt } from 'react-icons/fa';
 import { work } from '../data/site';
 import Reveal from './common/Reveal';
 
@@ -34,7 +34,7 @@ export default function Work() {
                     <span className="text-[0.55rem] md:text-[0.6rem] tracking-[0.2em] uppercase text-cream-dim">{item.tag}</span>
                   </div>
                   <div className="w-7 h-7 md:w-8 md:h-8 rounded-full bg-black/60 border border-white/15 backdrop-blur-md flex items-center justify-center text-cream text-xs transition-colors duration-300 group-hover:bg-accent group-hover:text-[#1a0a10] group-hover:border-accent shrink-0">
-                    <FaArrowUpRightFromSquare />
+                    <FaExternalLinkAlt />
                   </div>
                 </div>
               </div>

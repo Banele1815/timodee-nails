@@ -1,3 +1,4 @@
+// src/hooks/useScrollReveal.js
 import { useEffect, useRef } from 'react';
 
 export function useScrollReveal() {

@@ -8,7 +8,7 @@ export const site = {
     line2: 'Rabie Ridge Ext 4',
     line3: 'Midrand, Gauteng',
   },
-  hours: 'Mon – Sat · 9:00 – 19:00',
+  hours: 'Mon – Sat · 8:00 – 19:00',
   hoursNote: 'Sunday by appointment',
   instagram: 'timodeenails',
 };
