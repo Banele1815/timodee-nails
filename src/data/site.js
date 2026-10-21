@@ -4,8 +4,8 @@ export const site = {
   whatsapp: '27631363739',
   whatsappDisplay: '063 136 3739',
   address: {
-    line1: '1958 Parliament Street',
-    line2: 'Rabie Ridge Ext 4',
+    line1: '1958 Strandloper Rd',
+    line2: 'Rabie Ridge',
     line3: 'Midrand, Gauteng',
   },
   hours: 'Mon – Sat · 8:00 – 19:00',
@@ -49,18 +49,18 @@ export const services = [
 ];
 
 export const work = [
-  { src: '/work/work-1.jpg',  title: 'Gold Swirl Set',      tag: 'Chrome · Custom art',   tall: true },
-  { src: '/work/work-2.jpg',  title: 'Almond Gold Line',    tag: '3D florals · Custom',   tall: true },
-  { src: '/work/work-3.jpg',  title: 'Gold Ring Coffin',    tag: 'Star accent · Nude' },
-  { src: '/work/work-4.jpg',  title: 'Swirl French',        tag: 'Thin line · Gold detail' },
-  { src: '/work/work-5.jpg',  title: 'Deep Red Set',        tag: 'Gold outline · Art' },
-  { src: '/work/work-6.jpg',  title: 'Floral French',       tag: 'Square · Flower detail' },
-  { src: '/work/work-7.jpg',  title: 'Yellow Heart French', tag: 'Square · Pink detail' },
-  { src: '/work/work-8.jpg',  title: 'Gold Sun French',     tag: 'Milky white · Square' },
-  { src: '/work/work-9.jpg',  title: 'Yellow Ring Set',     tag: 'Stones · Milky white' },
-  { src: '/work/work-10.jpg', title: 'Red Leopard Set',     tag: 'Rose art · Coffin' },
-  { src: '/work/work-11.jpg', title: 'Blue Ombré French',   tag: 'Florals · Gold rings' },
-  { src: '/work/work-12.jpg', title: 'Yellow Swirl',        tag: 'Line art · Square' },
+  { src: '/work-1.jpg',  title: 'Gold Swirl Set',      tag: 'Chrome · Custom art',   tall: true },
+  { src: '/work-2.jpg',  title: 'Almond Gold Line',    tag: '3D florals · Custom',   tall: true },
+  { src: '/work-3.jpg',  title: 'Gold Ring Coffin',    tag: 'Star accent · Nude' },
+  { src: '/work-4.jpg',  title: 'Swirl French',        tag: 'Thin line · Gold detail' },
+  { src: '/work-5.jpg',  title: 'Deep Red Set',        tag: 'Gold outline · Art' },
+  { src: '/work-6.jpg',  title: 'Floral French',       tag: 'Square · Flower detail' },
+  { src: '/work-7.jpg',  title: 'Yellow Heart French', tag: 'Square · Pink detail' },
+  { src: '/work-8.jpg',  title: 'Gold Sun French',     tag: 'Milky white · Square' },
+  { src: '/work-9.jpg',  title: 'Yellow Ring Set',     tag: 'Stones · Milky white' },
+  { src: '/work-10.jpg', title: 'Red Leopard Set',     tag: 'Rose art · Coffin' },
+  { src: '/work-11.jpg', title: 'Blue Ombré French',   tag: 'Florals · Gold rings' },
+  { src: '/work-12.jpg', title: 'Yellow Swirl',        tag: 'Line art · Square' },
 ];
 
 export const testimonials = [

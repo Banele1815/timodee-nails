@@ -55,17 +55,27 @@ export default function Location() {
           </Reveal>
 
           <Reveal delay={100}>
+          <div className="relative">
             <div className="aspect-square max-h-[520px] rounded-3xl overflow-hidden border border-white/15 bg-bg-elevated">
               <iframe
-                src={`https://www.google.com/maps?q=${mapQuery}&output=embed`}
+                src={`https://www.google.com/maps?q=${mapQuery}&z=16&output=embed`}
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
                 title="Timodee Nails location"
                 className="w-full h-full border-0"
-                style={{ filter: 'invert(90%) hue-rotate(180deg) contrast(.92) saturate(.7)' }}
               />
             </div>
-          </Reveal>
+
+            <a
+              href={`https://www.google.com/maps/dir/?api=1&destination=${mapQuery}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn-primary absolute bottom-5 left-5 !px-5 !py-3 shadow-lg"
+            >
+              <FaMapMarkerAlt /> Get Directions
+            </a>
+          </div>
+        </Reveal>
         </div>
       </div>
     </section>
