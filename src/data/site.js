@@ -21,7 +21,7 @@ export const services = [
     desc: 'Custom apex build, precise cuticle work, and a finish that holds its shape for 3–4 weeks. The foundation of everything.',
     duration: '90 min · Signature',
     price: 'without tips R100',
-    price: 'with tips R160',
+    price2: 'with tips R160',
   },
   {
     num: '/ 02',
@@ -31,7 +31,7 @@ export const services = [
     duration: '120 min · Statement',
     price: 'R150',
   },
-   {
+  {
     num: '/ 03',
     icon: 'bolt',
     title: 'SHORT NAILS WITH DESIGN',
@@ -54,34 +54,34 @@ export const services = [
     desc: 'Handmade fans for fuller, darker, more dramatic looks. Hybrid blends classic and volume — volume goes all in.',
     duration: '120 min · Full glam',
     price: 'WITHOUT DESIGN R200',
-    price: 'WITH DESIGN R220',
+    price2: 'WITH DESIGN R220',
   },
   {
-    num: '/ 05',
+    num: '/ 06',
     icon: 'feather',
     title: 'LONG NAILS',
     desc: 'Handmade fans for fuller, darker, more dramatic looks. Hybrid blends classic and volume — volume goes all in.',
     duration: '120 min · Full glam',
     price: 'WITHOUT DESIGN R250',
-    price: 'WITH DESIGN R270',
+    price2: 'WITH DESIGN R270',
   },
-   {
-    num: '/ 05',
+  {
+    num: '/ 07',
     icon: 'feather',
     title: 'OMBRE NAILS',
     desc: 'Handmade fans for fuller, darker, more dramatic looks. Hybrid blends classic and volume — volume goes all in.',
     duration: '120 min · Full glam',
     price: 'WITHOUT DESIGN R300',
-    price: 'WITH DESIGN R330',
+    price2: 'WITH DESIGN R330',
   },
   {
-    num: '/ 05',
+    num: '/ 08',
     icon: 'feather',
     title: 'TOE NAILS',
     desc: 'Handmade fans for fuller, darker, more dramatic looks. Hybrid blends classic and volume — volume goes all in.',
     duration: '120 min · Full glam',
     price: 'WITHOUT DESIGN R80',
-    price: 'WITH DESIGN R120',
+    price2: 'WITH DESIGN R120',
   },
 ];
 

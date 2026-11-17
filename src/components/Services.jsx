@@ -37,7 +37,12 @@ export default function Services() {
 
                   <div className="flex justify-between items-center pt-6 border-t border-white/10 text-xs">
                     <span className="text-cream-faint tracking-widest uppercase text-[0.65rem]">{s.duration}</span>
-                    <strong className="text-accent font-semibold">{s.price}</strong>
+                    <div className="text-right">
+                      <strong className="block text-accent font-semibold">{s.price}</strong>
+                      {s.price2 && (
+                        <strong className="block text-accent font-semibold mt-1">{s.price2}</strong>
+                      )}
+                    </div>
                   </div>
                 </div>
               </Reveal>
