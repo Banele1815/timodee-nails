@@ -14,7 +14,11 @@ export default function About() {
         <Reveal>
           <div className="relative aspect-[4/5] rounded-3xl overflow-hidden border border-white/15 bg-bg">
             <img
-              src="/timodee.jpg"
+              src="/timodee.webp"
+              width="900"
+              height="1600"
+              loading="lazy"
+              decoding="async"
               alt="Timodee — founder of Timodee Nails"
               className="w-full h-full object-cover"
               style={{ objectPosition: 'center 25%' }}

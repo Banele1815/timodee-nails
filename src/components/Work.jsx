@@ -22,6 +22,9 @@ export default function Work() {
                   src={item.src}
                   alt={item.title}
                   loading="lazy"
+                  decoding="async"
+                  width="900"
+                  height="1200"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                   onError={(e) => { e.currentTarget.style.opacity = 0; }}
                 />

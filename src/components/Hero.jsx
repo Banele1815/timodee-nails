@@ -42,7 +42,11 @@ export default function Hero() {
       <div className="relative aspect-[1/1.1] max-h-[640px] z-10">
         <div className="absolute inset-x-0 top-0 bottom-[15%] left-[10%] rounded-3xl overflow-hidden border border-white/15 bg-bg-card animate-float">
           <img
-            src="/hero.jpg"
+            src="/hero.webp"
+            width="900"
+            height="1200"
+            fetchPriority="high"
+            decoding="async"
             alt="Custom nail set by Timodee Nails"
             className="w-full h-full object-cover"
             onError={(e) => { e.currentTarget.style.display = 'none'; }}

@@ -86,18 +86,18 @@ export const services = [
 ];
 
 export const work = [
-  { src: '/work-1.jpg',  title: 'Gold Swirl Set',      tag: 'Chrome · Custom art',   tall: true },
-  { src: '/work-2.jpg',  title: 'Almond Gold Line',    tag: '3D florals · Custom',   tall: true },
-  { src: '/work-3.jpg',  title: 'Gold Ring Coffin',    tag: 'Star accent · Nude' },
-  { src: '/work-4.jpg',  title: 'Swirl French',        tag: 'Thin line · Gold detail' },
-  { src: '/work-5.jpg',  title: 'Deep Red Set',        tag: 'Gold outline · Art' },
-  { src: '/work-6.jpg',  title: 'Floral French',       tag: 'Square · Flower detail' },
-  { src: '/work-7.jpg',  title: 'Yellow Heart French', tag: 'Square · Pink detail' },
-  { src: '/work-8.jpg',  title: 'Gold Sun French',     tag: 'Milky white · Square' },
-  { src: '/work-9.jpg',  title: 'Yellow Ring Set',     tag: 'Stones · Milky white' },
-  { src: '/work-10.jpg', title: 'Red Leopard Set',     tag: 'Rose art · Coffin' },
-  { src: '/work-11.jpg', title: 'Blue Ombré French',   tag: 'Florals · Gold rings' },
-  { src: '/work-12.jpg', title: 'Yellow Swirl',        tag: 'Line art · Square' },
+  { src: '/work-1.webp',  title: 'Gold Swirl Set',      tag: 'Chrome · Custom art',   tall: true },
+  { src: '/work-2.webp',  title: 'Almond Gold Line',    tag: '3D florals · Custom',   tall: true },
+  { src: '/work-3.webp',  title: 'Gold Ring Coffin',    tag: 'Star accent · Nude' },
+  { src: '/work-4.webp',  title: 'Swirl French',        tag: 'Thin line · Gold detail' },
+  { src: '/work-5.webp',  title: 'Deep Red Set',        tag: 'Gold outline · Art' },
+  { src: '/work-6.webp',  title: 'Floral French',       tag: 'Square · Flower detail' },
+  { src: '/work-7.webp',  title: 'Yellow Heart French', tag: 'Square · Pink detail' },
+  { src: '/work-8.webp',  title: 'Gold Sun French',     tag: 'Milky white · Square' },
+  { src: '/work-9.webp',  title: 'Yellow Ring Set',     tag: 'Stones · Milky white' },
+  { src: '/work-10.webp', title: 'Red Leopard Set',     tag: 'Rose art · Coffin' },
+  { src: '/work-11.webp', title: 'Blue Ombré French',   tag: 'Florals · Gold rings' },
+  { src: '/work-12.webp', title: 'Yellow Swirl',        tag: 'Line art · Square' },
 ];
 
 export const testimonials = [
