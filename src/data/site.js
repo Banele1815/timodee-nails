@@ -20,8 +20,8 @@ export const services = [
     title: 'Structured Gel Nails',
     desc: 'Custom apex build, precise cuticle work, and a finish that holds its shape for 3–4 weeks. The foundation of everything.',
     duration: '90 min · Signature',
-    price: 'without tips R100',
-    price2: 'with tips R160',
+    price: 'without tips R120',
+    price2: 'with tips R180',
   },
   {
     num: '/ 02',
@@ -29,7 +29,7 @@ export const services = [
     title: 'SHORT NAILS WITHOUT DESIGN',
     desc: 'Full-coverage chrome, mirror finishes, hand-painted line work, 3D details. Bring a reference or let me design on the spot.',
     duration: '120 min · Statement',
-    price: 'R150',
+    price: 'R170',
   },
   {
     num: '/ 03',
@@ -37,7 +37,7 @@ export const services = [
     title: 'SHORT NAILS WITH DESIGN',
     desc: 'Full-coverage chrome, mirror finishes, hand-painted line work, 3D details. Bring a reference or let me design on the spot.',
     duration: '120 min · Statement',
-    price: 'R170',
+    price: 'R190',
   },
   {
     num: '/ 04',
@@ -45,7 +45,7 @@ export const services = [
     title: 'EYELASHES',
     desc: 'One-to-one application for a natural, weightless finish. Perfect for everyday wear or a first-time lash client.',
     duration: '90 min · Natural',
-    price: 'R100',
+    price: 'R120',
   },
   {
     num: '/ 05',
@@ -53,8 +53,8 @@ export const services = [
     title: 'MEDIUM NAILS',
     desc: 'Handmade fans for fuller, darker, more dramatic looks. Hybrid blends classic and volume — volume goes all in.',
     duration: '120 min · Full glam',
-    price: 'WITHOUT DESIGN R200',
-    price2: 'WITH DESIGN R220',
+    price: 'WITHOUT DESIGN R220',
+    price2: 'WITH DESIGN R240',
   },
   {
     num: '/ 06',
@@ -62,8 +62,8 @@ export const services = [
     title: 'LONG NAILS',
     desc: 'Handmade fans for fuller, darker, more dramatic looks. Hybrid blends classic and volume — volume goes all in.',
     duration: '120 min · Full glam',
-    price: 'WITHOUT DESIGN R250',
-    price2: 'WITH DESIGN R270',
+    price: 'WITHOUT DESIGN R270',
+    price2: 'WITH DESIGN R290',
   },
   {
     num: '/ 07',
@@ -71,8 +71,8 @@ export const services = [
     title: 'OMBRE NAILS',
     desc: 'Handmade fans for fuller, darker, more dramatic looks. Hybrid blends classic and volume — volume goes all in.',
     duration: '120 min · Full glam',
-    price: 'WITHOUT DESIGN R300',
-    price2: 'WITH DESIGN R330',
+    price: 'WITHOUT DESIGN R320',
+    price2: 'WITH DESIGN R350',
   },
   {
     num: '/ 08',
@@ -80,8 +80,8 @@ export const services = [
     title: 'TOE NAILS',
     desc: 'Handmade fans for fuller, darker, more dramatic looks. Hybrid blends classic and volume — volume goes all in.',
     duration: '120 min · Full glam',
-    price: 'WITHOUT DESIGN R80',
-    price2: 'WITH DESIGN R120',
+    price: 'WITHOUT DESIGN R100',
+    price2: 'WITH DESIGN R140',
   },
 ];
 
