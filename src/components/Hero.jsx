@@ -43,6 +43,8 @@ export default function Hero() {
         <div className="absolute inset-x-0 top-0 bottom-[15%] left-[10%] rounded-3xl overflow-hidden border border-white/15 bg-bg-card animate-float">
           <img
             src="/hero.webp"
+            srcSet="/hero-640.webp 640w, /hero.webp 900w"
+            sizes="(min-width: 1024px) 40vw, 85vw"
             width="900"
             height="1200"
             fetchPriority="high"

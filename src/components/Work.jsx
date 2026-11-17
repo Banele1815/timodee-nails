@@ -20,6 +20,8 @@ export default function Work() {
               <div className="group relative w-full h-full rounded-2xl overflow-hidden border border-white/10 cursor-pointer transition-transform duration-500 hover:scale-[1.015] hover:z-10 bg-bg">
                 <img
                   src={item.src}
+                  srcSet={`${item.src.replace('.webp', '-480.webp')} 480w, ${item.src} 900w`}
+                  sizes="(min-width: 768px) 33vw, 50vw"
                   alt={item.title}
                   loading="lazy"
                   decoding="async"
